@@ -6,14 +6,6 @@
 //  Copyright © 2020 panandafog. All rights reserved.
 //
 
-//struct Level: Identifiable {
-//
-//    var id: Int
-//    let image: String
-//    let title: String
-//    let category: String
-//}
-
 struct Level: Decodable, Identifiable {
 
     let id: Int
